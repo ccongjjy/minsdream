@@ -1,1 +1,2 @@
 # minsdream
+permalink: /index.html
